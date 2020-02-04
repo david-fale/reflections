@@ -35,7 +35,10 @@
 
 
 
-# Calculator
+# Stretch
+
+
+## Calculator
 
 ### What was the most challenging part of this calculator exercise for you?
 
@@ -54,6 +57,3 @@
 
 
 ### Is this anything different you will do the next time you pair on an exercise?
-
-
-
