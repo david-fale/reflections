@@ -5,8 +5,7 @@ I have:
 - [ ] added, committed, and pushed `sprint-5-cultural.html`
 - [ ] added, committed, and pushed my `minesweeper` repo
 - [ ] checked that `my-username.github.io/minesweeper` page is live
-- [ ] added, committed, and pushed my calculator work up to `calculator`
-- [ ] checked that `my-username.github.io/calculator` page is live
+- [ ] added, committed, and pushed my `javascript-carnival` repo
 - [ ] completed `my-reflections-sprint-5.md`
 - [ ] filled out the feedback form
 - [ ] pushed my `reflections` repo to github
