@@ -2,11 +2,11 @@
 
 # Your Blog 
 
-### Describe what you did in this exercise. Did you understand the steps that you were making? Can you describe them in simple terms?
+### Can you describe the steps you did in this exercise in simple terms?
 
 
 
-### Did you achieve the learning competencies and keep within the timebox?
+### How are you finding working with the timeboxes?
 
 
 
@@ -14,23 +14,11 @@
 
 # Learn HTML and CSS 
 
-### What resources did you use during this challenge? Why did you choose those ones? 
-
-
-
 ### What obstacles did you come up against? How did you overcome them?
 
 
 
-### What are of you proud of from during this challenge?
-
-
-
-### Did you keep within the timebox suggestions?
-
-
-
-### How much faster could you do it if you started from the beginning again, right now?
+### What are of you proud of from this challenge?
 
 
 
@@ -39,10 +27,6 @@
 # Add HTML and CSS to your Blog Challenge
 
 ### Write a small story about HTML and CSS and their relationship. You could personify elements or speak from your own personal experience. The story should capture insight about the nature of HTML and CSS.  
-
-
-
-### What obstacles did you come up against? How did you overcome them? 
 
 
 
