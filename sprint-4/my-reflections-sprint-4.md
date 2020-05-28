@@ -2,28 +2,18 @@
 
 # Code Readability Primer
 
-### What code readability habit will you begin implementing today?
-
-
-
-### Does code readability seem important to you, or unnecessarily fussy? Justify your answer.
-
+### What makes code more readable for you?
 
 
 
 
 # Code Readability Challenge
 
-### As a developer, how important do you think indenting is?
-
-
-
 ### Do you prefer tabs or spaces when indenting?
 
 
 
-### What is your workspace like in real life? Clean? Messy? Is your code a reflection of that? Is your _downloads_ folder a reflection of that?
-
+### What is your workspace like in real life? Clean? Messy? Is your code a reflection of that?
 
 
 
@@ -42,16 +32,11 @@ function testSum(){
     }
 }
 ```
-Have a go at writing a function below that would make the above function print out `"It works!"`: 
-
+### Have a go at writing a "sum" function below that would make the above function print out `"It works!"`: 
 
 
 
 ### Do you think you would prefer using Unit Testing or Test Driven Development? Why?
-
-
-
-### How could these techniques be used together to make code that is reliable?
 
 
 
@@ -63,11 +48,7 @@ Have a go at writing a function below that would make the above function print o
 
 # Repl.it - Code in your browser
 
-### What was your first impression of the Repl.it website?
-
-
-
-### How did you find using it in practice? Confusing? Useful?
+### How did you find using repl.it in practice? Confusing? Useful?
 
 
 
@@ -91,21 +72,12 @@ Have a go at writing a function below that would make the above function print o
 
 # JavaScript Variables and Object Types
 
-### How did you find working through the Variables and Objects kata?
-
-
-
 ### Did you look at the tests while coding the kata? Was it helpful?
 
 
 
 
-
 # Manipulating JavaScript Objects
-
-### What was the highlight of this kata for you?
-
-
 
 ### Did you find you preferred following the steps given to you or using the test outputs in your repl? Why?
 
@@ -127,10 +99,6 @@ Have a go at writing a function below that would make the above function print o
 
 # JavaScript Gradebook
 
-### What was a surprising moment for you in this Gradebook Kata?
-
-
-
 ### Did you go back and rewrite code as you got to new steps? Is there anything you would change about your final code?
 
 
@@ -139,14 +107,7 @@ Have a go at writing a function below that would make the above function print o
 
 # Built-in Methods
 
-### On a scale of 1 - 5, 5 means 'These built in methods are hard!' and 1 means 'Built in methods are easy.  Piece of cake' - how are you feeling following this Built-In-Methods kata? 
-
-
-
-
 ### What resources did you use to help you? How useful did you find them?
-
-
 
 
 
@@ -154,10 +115,6 @@ Have a go at writing a function below that would make the above function print o
 <!-- Stretch Material -->
 
 # JavaScript Olympics
-
-### Did you find this took a longer or shorter time than you expected? Why?
-
-
 
 ### If you were to complete the kata again, what would you do differently next time?
 
