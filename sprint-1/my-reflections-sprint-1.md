@@ -36,14 +36,6 @@ In addition to the challenge specific reflections, answer the following question
 
 
 
-### Do you think you would still remember the difference a week from now if you didn't revisit the material?
-
-
-
-### Did you stick to the timebox suggestions? If not, why not?
-
-
-
 
 
 # Install and Explore Git 
@@ -85,10 +77,6 @@ In addition to the challenge specific reflections, answer the following question
 
 
 
-### Do the concepts introduced feel intuitive or difficult to understand?
-
-
-
 
 
 # GitHub Fork & Clone
@@ -97,9 +85,6 @@ In addition to the challenge specific reflections, answer the following question
 
 ### What are some examples of when you would fork?
 
-
-
-### Write your own step-by-step fork and clone instructions. Describe what you did.
 
 
 
@@ -123,15 +108,7 @@ In addition to the challenge specific reflections, answer the following question
 
 # Thinking like a programmer
 
-### Describe the process for solving problems
-
-
-
-### Will you follow that process? How?
-
-
-
-### What did you learn about flipped classroom?
+### What is your process so far for solving problems?
 
 
 
