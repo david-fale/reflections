@@ -29,18 +29,8 @@ In addition to the challenge specific reflections, answer the following question
 
 
 
-### Did you remember to take regular breaks away from your screen during this sprint? How often? Did you stretch your body?
-
-
-
-### If you went back and did the JavaScript Basics course again from last sprint, how challenging do you think you would find it now?
+### How did you look after yourself this sprint (stretching, breaks, rewards, etc)?
 
 
 
 ### If you could send a time traveling text message back to yourself at the start of this sprint, what would it say? 
-
-
-
-### What is Javascript?
-
-
