@@ -2,15 +2,7 @@
 
 # Mindfulness 
 
-### Have you done mindfulness or attention training before? 
-
-
-
-### Are you able to identify any bias you have for or against mindfulness?   
-
-
-
-### What did you notice as you were meditating? 
+### Do you have any biases for or against mindfulness? If so, can you describe them?
 
 
 
@@ -47,10 +39,6 @@
 
 
 
-### If you did this entire exercise again, would you get stuck at the same points as you did the first time? Where did you get stuck?  
-
-
-
 
 
 # The DOM Primer and DevTools Primer
@@ -67,7 +55,7 @@
 
 # DevTools Tutorial
 
-### What did you notice about your learning style, strengths and limitations when doing this crash course?
+### What did you notice about your learning style, strengths, and limitations when doing this crash course?
 
 
 
