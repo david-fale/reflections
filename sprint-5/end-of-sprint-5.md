@@ -18,9 +18,6 @@ I have:
 
 In addition to the challenge specific reflections, answer the following questions:
 
-### Do you feel more or less confident in your JavaScript skills after this sprint? What made you feel this?
-
-
 
 ### Which parts of Foundations made you feel really good?
 
@@ -30,12 +27,7 @@ In addition to the challenge specific reflections, answer the following question
 
 
 
-### What did you think Foundations was going to be like before you started?
-
-
-
-
-### What was Foundations actually like?
+### Was Foundations what you expected it to be like? If not, what was different?
 
 
 
