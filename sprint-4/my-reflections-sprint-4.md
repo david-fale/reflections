@@ -40,10 +40,6 @@ function testSum(){
 
 
 
-### Was your initial response to the idea of testing, "That sounds useful" or "That sounds like a hassle"? Why?
-
-
-
 
 
 # Repl.it - Code in your browser
@@ -52,20 +48,10 @@ function testSum(){
 
 
 
-### When you say the name of the website in your head, how are you pronouncing it? "REPLIT"? "REP-ILL-IT"? "REPELL-IT"?
 
+# Problem Solving and Pseudocode
 
-
-
-# Problem Solving and Pseudocode 
-
-### Pick two problem solving techniques you would like to put into practice. Which ones have you chosen?
-
-
-
-### How will you implement these techniques into your day to day coding flow? How will you make sure that you actually do them?
-
-
+### What techniques will you implement into your day to day coding flow? How will you make sure that you actually do them?
 
 
 
@@ -99,7 +85,7 @@ function testSum(){
 
 # JavaScript Gradebook
 
-### Did you go back and rewrite code as you got to new steps? Is there anything you would change about your final code?
+### Is there anything you would change about your final code?
 
 
 
