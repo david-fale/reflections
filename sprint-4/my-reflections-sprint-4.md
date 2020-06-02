@@ -1,13 +1,10 @@
 # My Reflections - Sprint Four 
 
-# Code Readability Primer
+# Code Readability
 
 ### What makes code more readable for you?
 
 
-
-
-# Code Readability Challenge
 
 ### Do you prefer tabs or spaces when indenting?
 
@@ -41,29 +38,23 @@ function testSum(){
 
 
 
+# Kata
 
-# Repl.it - Code in your browser
+#### JavaScript Variables and Object Types
 
 ### How did you find using repl.it in practice? Confusing? Useful?
 
 
-
-
-# Problem Solving and Pseudocode
-
-### What techniques will you implement into your day to day coding flow? How will you make sure that you actually do them?
-
-
-
-
-# JavaScript Variables and Object Types
 
 ### Did you look at the tests while coding the kata? Was it helpful?
 
 
 
 
-# Manipulating JavaScript Objects
+#### Manipulating JavaScript Objects
+
+### What problem solving techniques did you implement in your coding flow?
+
 
 ### Did you find you preferred following the steps given to you or using the test outputs in your repl? Why?
 
@@ -71,7 +62,7 @@ function testSum(){
 
 
 
-# FizzBuzz (Super Edition)
+#### FizzBuzz (Super Edition)
 
 ### What was the most challenging part of Super FizzBuzz for you?
 
@@ -83,15 +74,15 @@ function testSum(){
 
 
 
-# JavaScript Gradebook
+#### JavaScript Gradebook
 
-### Is there anything you would change about your final code?
-
-
+### Did you want to change and refactor your code once you were finished?
 
 
 
-# Built-in Methods
+
+
+#### Built-in Methods
 
 ### What resources did you use to help you? How useful did you find them?
 
@@ -100,7 +91,7 @@ function testSum(){
 
 <!-- Stretch Material -->
 
-# JavaScript Olympics
+#### JavaScript Olympics
 
 ### If you were to complete the kata again, what would you do differently next time?
 
