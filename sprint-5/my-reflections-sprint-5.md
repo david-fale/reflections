@@ -2,21 +2,11 @@
 
 # Minesweeper
 
-### What was the hardest moment of this challenge for you?
-
-
-
-### Did you have any blocks during this challenge? How did you overcome them?
+### What was the hardest moment of this challenge for you? How did you overcome them?
 
 
 
 ### What learnings are you going to take away from this challenge?
-
-
-
-### If _you_ were responsible for curriculum development at Dev Academy, would you change this challenge in any way? How? Why?
-
-
 
 
 
@@ -49,11 +39,3 @@
 
 
 ### Which pairing role did you enjoy most? Why?
-
-
-
-### When the pairing wasn't working well, internally did it feel like "Your Fault"? "Their Fault"? Neither? Both? Did you communicate about it?
-
-
-
-### Is this anything different you will do the next time you pair on an exercise?
