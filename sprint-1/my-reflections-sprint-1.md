@@ -6,18 +6,15 @@ In addition to the challenge specific reflections, answer the following question
 
 <!-- Copy the answers you wrote in your temporary file earlier, under the sections below -->
 
+### In a couple of sentences, how would you describe the command line in plain English? Can you think of an analogy for it?
 
 
 
+### Did you stick to the timebox guidelines? If not, what change would you make next time?
 
 
 
-# Version Control with Git
-
-<!-- Copy your reflection answers into this file -->
-
-
-
+### Name 5 commands you used, and what they do
 
 
 
@@ -25,7 +22,11 @@ In addition to the challenge specific reflections, answer the following question
 
 <!-- Copy your reflection answers into this file -->
 
-### What is a GitHub work flow?
+### Whats the difference between git and GitHub?
+
+
+
+### Can you think of an analogy to describe them?
 
 
 
@@ -34,16 +35,6 @@ In addition to the challenge specific reflections, answer the following question
 
 
 ### Is there anything you'd do differently if you were to repeat the learning exploration again?
-
-
-
-
-# Track and Commit Primer!
-
-<!-- Copy your reflection answer into this file -->
-
-### How would you describe stage and commit to your non-tech-savvy friend?  
-
 
 
 
@@ -59,6 +50,8 @@ In addition to the challenge specific reflections, answer the following question
 ### Why create a Branch?
 
 
+
+### How would you describe stage and commit to your non-tech-savvy friend?  
 
 
 
