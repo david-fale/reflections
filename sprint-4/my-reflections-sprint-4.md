@@ -40,59 +40,17 @@ function testSum(){
 
 # Kata
 
-#### JavaScript Variables and Object Types
-
 ### How did you find using repl.it in practice? Confusing? Useful?
 
 
+### Was it helpful to look at the tests while coding the kata?
 
-### Did you look at the tests while coding the kata? Was it helpful?
-
-
-
-
-#### Manipulating JavaScript Objects
 
 ### What problem solving techniques did you implement in your coding flow?
 
 
-### Did you find you preferred following the steps given to you or using the test outputs in your repl? Why?
-
-
-
-
-
-#### FizzBuzz (Super Edition)
-
 ### What was the most challenging part of Super FizzBuzz for you?
 
 
-
-### How did you find using pseudocode during this kata?
-
-
-
-
-
-#### JavaScript Gradebook
-
 ### Did you want to change and refactor your code once you were finished?
-
-
-
-
-
-#### Built-in Methods
-
-### What resources did you use to help you? How useful did you find them?
-
-
-
-
-<!-- Stretch Material -->
-
-#### JavaScript Olympics
-
-### If you were to complete the kata again, what would you do differently next time?
-
 
