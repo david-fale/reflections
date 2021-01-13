@@ -14,11 +14,11 @@ Follow the instructions during sprint 1 to fork this repo to your own github acc
 #### GitHub:
 1. Open a file for editing by clicking on the little pencil button in the right corner of the bar above (when looking at an individual file).
 2. Once you've made all the appropriate changes, save your work by committing them in the box below the file.
-3. Pull these saved changes down to the master branch of your local repo by using the command `git pull origin master`
+3. Pull these saved changes down to the main branch of your local repo by using the command `git pull origin main`
 
 #### VS Code:
 1. Open this folder in VS Code (using a terminal command such as `code .` when in the reflections folder)
 2. Once you've made all the appropriate changes, save your file.
-3. Add, commit, and then push your changes back to GitHub using `git push origin master`
+3. Add, commit, and then push your changes back to GitHub using `git push origin main`
 
 *NB:* This has been created as a private repo so will not be viewable to anyone outside of foundations.
