@@ -7,22 +7,22 @@ This is a checklist of the core competencies you need for bootcamp
 
 ## Command line
 I can:
-- [ ] navigate
-- [ ] create files
-- [ ] rename files
-- [ ] move files
+- [Y] navigate
+- [Y] create files
+- [Y] rename files
+- [Y] move files
 
 ## Git
 I can:
-- [ ] clone
-- [ ] fork
-- [ ] stage & push
-- [ ] pull
-- [ ] branch
-- [ ] handle pull requests
-- [ ] make good commit messages
-- [ ] make small frequent commits
-- [ ] view my git log
+- [Y] clone
+- [Y] fork
+- [Y] stage & push
+- [Y] pull
+- [Y] branch
+- [Y] handle pull requests
+- [Y] make good commit messages
+- [Y] make small frequent commits
+- [Y] view my git log
 
 ## Design - Stretch
 I can:
