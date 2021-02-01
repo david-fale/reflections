@@ -131,10 +131,8 @@ It looked like what I expected it to be.
 
 ### What is your process so far for solving problems?
 
-
-
-
-
+Think about what the question has actually asked. Make a game plan, this makes it much easier to go through the question and stops random small mistakes. Cut the question into smaller pieces if the question is too difficult to answer in one go. Then I try a solution, if it does not work I then I think over it for a few seconds to see where it could have gone wrong. I keep this up till I have answered the question in the chunk I am working on. Once all mini-tasks are completed I bring them back together and see if the solution works, if so I go onto editing the code to modern formatting standards. Otherwise I go back a step and consult mr google for a helpful solution. Once I am done I do the reflection and move on to the next task.
+ 
 # Introduce yourself
 
 ### What was it like trying to summarise yourself to a group of strangers? 
