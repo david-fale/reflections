@@ -93,8 +93,6 @@ This time it was much better, I kept to the suggested timeboxes and had plenty o
 
 # Branch, Pull, Merge
 
-<!-- Copy your reflection answers into this file -->
-
 ### What is main?
 
 Main is the most complete and stable timeline in the branches.
@@ -108,8 +106,6 @@ To be able to make a copy and work on the repository without making any changes 
 Stage is like the presenting area for ideas you might want to implement, it allows you to change and edit the files you want to commit before you actually commit them. Commit is like a save point, once its saved its logged and gives a snapshot of what has been changed.
 
 # GitHub Fork & Clone
-
-<!-- Answer the following questions -->
 
 ### What are some examples of when you would fork?
 
@@ -125,13 +121,11 @@ Forking made a lot of sense as it explained to me how open source projects make 
 
 ### Reflect on this activity. When did you feel frustrated?
 
-
+no stage found it pretty intuitive.
 
 ### If you didn't already know that this is the way websites are made; was it what you pictured? How does the reality of this process differ from your preconceptions?
 
-
-
-
+It looked like what I expected it to be.
 
 # Thinking like a programmer
 
