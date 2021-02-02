@@ -137,7 +137,8 @@ Think about what the question has actually asked. Make a game plan, this makes i
 
 ### What was it like trying to summarise yourself to a group of strangers? 
 
-
+Weird at first but not that strange.
 
 ### Could you feel your ego? Were you self conscious? 
 
+yea a little bit but once I posted, it passed.
