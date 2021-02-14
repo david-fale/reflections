@@ -1,14 +1,14 @@
 # Sprint 2 checklist
 
 I have:
-- [ ] checked `my-name.github.io` is live
-- [ ] added, committed, and pushed:
+- [x] checked `my-name.github.io` is live
+- [x] added, committed, and pushed:
     - `sprint-1-technical.html`
     - `sprint-2-technical.html`
     - `sprint-2-cultural.html` 
-- [ ] checked that my blog pages are live
-- [ ] completed `my-reflections-sprint-2.md`
-- [ ] filled out the feedback form
+- [x] checked that my blog pages are live
+- [x] completed `my-reflections-sprint-2.md`
+- [x] filled out the feedback form
 - [ ] pushed my `reflections` repo to github
 
 
