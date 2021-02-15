@@ -3,15 +3,15 @@
 # Mindfulness 
 
 ### Do you have any biases for or against mindfulness? If so, can you describe them?
-
+I do notcare for it either way, but I do other things to focus my mind.
 
 
 ### How did you find the overall experience? 
-
+Simmilar to other practices.
 
 
 ### What's your daily habit commitment? 
-    
+
 
 
 
