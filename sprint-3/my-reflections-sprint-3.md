@@ -11,8 +11,7 @@ Simmilar to other practices.
 
 
 ### What's your daily habit commitment? 
-
-
+⭐
 
 
 
