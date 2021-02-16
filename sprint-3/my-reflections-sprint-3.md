@@ -18,11 +18,11 @@ Simmilar to other practices.
 # Listening and Looping 
 
 ### What was it like to be fully listened to? 
-
+It was good, appreciated the active listening partner.
 
 
 ### What was it like to fully listen?
-
+It is very simmilar to what I do on a daily basis.
     
 
 
