@@ -1,15 +1,15 @@
 # Sprint 3 checklist
 
 I have:
-- [ ] completed Dev Tools Crash Course
-- [ ] added, committed, and pushed:
+- [x] completed Dev Tools Crash Course
+- [x] added, committed, and pushed:
     - `sprint-3-technical.html` 
     - `sprint-3-cultural.html` 
-- [ ] checked that my blog pages are live
-- [ ] practiced Conscious Listening (Listening and Looping) with a partner
-- [ ] completed `my-reflections-sprint-3.md`
-- [ ] filled out the feedback form
-- [ ] pushed my `reflections` repo to github
+- [x] checked that my blog pages are live
+- [x] practiced Conscious Listening (Listening and Looping) with a partner
+- [x] completed `my-reflections-sprint-3.md`
+- [x] filled out the feedback form
+- [x] pushed my `reflections` repo to github
 
 
 
