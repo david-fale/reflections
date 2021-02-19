@@ -18,15 +18,16 @@ I have:
 In addition to the challenge specific reflections, answer the following questions:
 
 ### How confident are you with each of the Learning Competencies?
-
+I am confident I have understod over 80% of the content.
 
 
 ### Which parts of the this sprint made you feel happy?
 
-
+Finishing the technical blog as it was fun learning about the concepts of loops.
 
 ### Which parts of this sprint made you angry?
-
+The free code camp section as some of the questions were hard to make sense of.
 
 
 ### How many times during this sprint did you want to give up? Why didn't you?
+None I kept with it regardless of the struggle.
