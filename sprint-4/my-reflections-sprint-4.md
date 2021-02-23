@@ -31,11 +31,13 @@ function testSum(){
 }
 ```
 ### Have a go at writing a "sum" function below that would make the above function print out `"It works!"`: 
-
+function sum(a, b){
+    return a + b;
+}
 
 
 ### Do you think you would prefer using Unit Testing or Test Driven Development? Why?
-
+Unit testing as I think it would suit my style of learning.
 
 
 
