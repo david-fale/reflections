@@ -3,15 +3,16 @@
 # Code Readability
 
 ### What makes code more readable for you?
-
+Using tabs and proper block level elements. If I don't do that I lose track of my code structure. 
+Also a proper naming convention improved my code readability as I actually know what my code is trying to do.
 
 
 ### Do you prefer tabs or spaces when indenting?
-
+tabs as its more convenient.
 
 
 ### What is your workspace like in real life? Clean? Messy? Is your code a reflection of that?
-
+Messy, my code is generally celaner than my workspace.
 
 
 
