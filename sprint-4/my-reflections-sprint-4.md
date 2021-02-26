@@ -44,16 +44,16 @@ Unit testing as I think it would suit my style of learning.
 # Kata
 
 ### How did you find using repl.it in practice? Confusing? Useful?
-
+Confusing at first, but after using it for a while I got used to it.
 
 ### Was it helpful to look at the tests while coding the kata?
-
+yes somewhat but near the end it didn't help.
 
 ### What problem solving techniques did you implement in your coding flow?
-
+Googling and using console.log to see the results.
 
 ### What was the most challenging part of Super FizzBuzz for you?
-
+ordering the if else statements to give the correct results.
 
 ### Did you want to change and refactor your code once you were finished?
-
+Yes the code I started with was terrible.
